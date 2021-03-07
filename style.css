@@ -1,0 +1,54 @@
+.bg{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-position: 40%;
+    background-repeat: no-repeat;
+}
+
+
+.card{
+    padding: 30px 40px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius:10px;
+
+}
+.corner{
+    color: orange;
+    margin-left: 95%;
+}
+.space{
+    margin-top: 100px;
+
+}
+.center{
+    text-align: center;
+}
+.middle .top{
+    background-color: white ;
+    box-shadow: 10px 10px 20px lightgrey;
+    border-color: lightgrey;
+    background-size: 15px 10px;
+}
+    
+.middle .bottom{
+
+    background-color: white ;
+    box-shadow: 5px 5px  30px lightgrey;
+    border-color: lightgrey;
+    
+    
+}
+ .first{
+    margin-left: 45px;
+    margin-right: 0;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 10px 10px  30px lightgray;
+    height: 30%;
+    width: 85%;
+    background-size: 15px 15px;
+ }
+    
+    
+    
+   
+
